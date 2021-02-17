@@ -12,7 +12,7 @@ On a motherboard, USB ports are supplied by hard-coded voltage values.These valu
     - A [multimeter](https://www.harborfreight.com/7-function-multimeter-98025.html) or a [USB charge doctor](https://www.ebay.com/itm/263297062667).
     - A [USB governor tool](https://www.ebay.com/itm/284183241245).
   - Steps:
-    - Get the version of the USB port that you want to control and get its max voltage from [Wikipedia](https://en.m.wikipedia.org/wiki/USB).
+    - Get the version of the USB port that you want to control and get its max voltage from [Wikipedia](https://en.wikipedia.org/wiki/USB).
     - Create a circuit that will help you to set the max voltage that you have to use with the USB governor tool.
     - Once your USB governor tool is at the right value do a circuit that supply your usb port.
 
