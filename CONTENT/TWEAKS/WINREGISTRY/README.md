@@ -1,13 +1,10 @@
 ## Windows Registry
 
 ### How to set cpu affinity through the Windows Registry ?
-By default, the processes uses mostly the core 0, though this can lead to bad performances because the other cores are not used a lot.
-To solve this problem there is a user-friendly program called [Interrupt Affinity Policy Tool](https://github.com/littleunixcorn/Unicorns/raw/main/assets/programs/interrupt_affinity_policy_tool.msi).
+By default, windows processes use mostly cpu core 0, but this can lead to bad performance because the other cores are not being used a lot. To solve this problem, there is a user-friendly program called ["Interrupt Affinity Policy Tool"](https://github.com/littleunixcorn/Unicorns/raw/main/assets/programs/interrupt_affinity_policy_tool.msi).
 
 <details><summary>Findings and Analysis</summary>
-Set affinity through the program named above is easy, understandable but lead to a lost of time.
-To solve this, you can use the registry, it is fast and requires only a click.
-Here is a list of the values that you may need to use:
+Setting affinity through the program above is easy, and simplistic, but using the program above leads to a large amount of wasted time. To solve this, you can use the windows registry, it is fast and requires only a click. Here is a list of the values that you will have to use:
 <hr>
 
 **DevicePolicy**
