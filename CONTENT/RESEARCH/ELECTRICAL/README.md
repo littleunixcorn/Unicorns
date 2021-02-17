@@ -19,6 +19,6 @@ On a motherboard, USB ports are supplied by hard-coded voltage values. These val
 
 - It depends on what you mean by "worth it". For example, this can be useful if you have plug-in a LED and you do not want to spend power unless it's needed. Another use is if you want to try to use this method on mice and keyboards to see if there are any improvements in terms of hertz variation and smoothness. If you are an experienced person and you have 10 dollars this can be worth it.
 
-- Additional research to do : Check the ripple introduction by the PCB with an oscilloscope.
+- Additional research to do: Check the ripple introduction by the PCB with an oscilloscope.
 
 </details>
