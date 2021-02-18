@@ -13,19 +13,19 @@ In this section I will provide some tests to see which power plan is the best fr
 **[Mouse tester](https://www.overclock.net/threads/mousetester-software.1535687/)**
 
 This program was made with the goal to obtain data about your mouse. This is a useful program to check if your mouse is stable at a given polling rate.
-- Adamx's:
+- Adamx's: [30hertz variation]
 ![](https://github.com/littleunixcorn/Unicorns/blob/main/assets/images/mousetester/adamx.png?raw=true)
-- Calypto's (idle disabled):
+- Calypto's (idle disabled): [40hertz variation]
 ![](https://github.com/littleunixcorn/Unicorns/blob/main/assets/images/mousetester/calypto_idle_disabled.png?raw=true)
-- ggOS (v2):
+- ggOS (v2): [15hertz variation and a spike at ~30]
 ![](https://github.com/littleunixcorn/Unicorns/blob/main/assets/images/mousetester/ggos_v2.png?raw=true)
-- High Performance Default:
+- High Performance Default: [30hertz variation and a spike at ~50]
 ![](https://github.com/littleunixcorn/Unicorns/blob/main/assets/images/mousetester/high_performance_default.png?raw=true)
-- Muren's (idle disabled):
+- Muren's (idle disabled): [10hertz variation and a lot of spikes]
 ![](https://github.com/littleunixcorn/Unicorns/blob/main/assets/images/mousetester/muren_idle_disabled.png?raw=true)
-- Muren's (idle enabled):
+- Muren's (idle enabled): [~25hertz variation and two spikes at ~60hertz]
 ![](https://github.com/littleunixcorn/Unicorns/blob/main/assets/images/mousetester/muren_idle_enabled.png?raw=true)
-- My power plan:
+- My power plan: [~20hertz variation]
 ![](https://github.com/littleunixcorn/Unicorns/blob/main/assets/images/mousetester/unicorn.png?raw=true)
 
 **[Latencymon](https://resplendence.com/latencymon)**
