@@ -19,5 +19,5 @@ If you want to talk with me or even join my *community*, you can go in [my disco
     - **RAM**: `? - 16gb 2666Mhz`
     - **PSU**: `?`
   - Programs:
-    - **Latencymon**: `1 minute run.`
+    - **Latencymon**: `1 minute run`
     
