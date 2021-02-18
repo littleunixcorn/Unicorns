@@ -23,7 +23,7 @@ This program was made with the goal to obtain data about your mouse. This is a u
 ![](https://github.com/littleunixcorn/Unicorns/blob/main/assets/images/mousetester/high_performance_default.png?raw=true)
 - Muren's (idle disabled): [10hertz variation and a lot of spikes]
 ![](https://github.com/littleunixcorn/Unicorns/blob/main/assets/images/mousetester/muren_idle_disabled.png?raw=true)
-- Muren's (idle enabled): [~25hertz variation and two spikes at ~60hertz]
+- Muren's (idle enabled): [~25hertz variation and two spikes at ~60]
 ![](https://github.com/littleunixcorn/Unicorns/blob/main/assets/images/mousetester/muren_idle_enabled.png?raw=true)
 - My power plan: [~20hertz variation]
 ![](https://github.com/littleunixcorn/Unicorns/blob/main/assets/images/mousetester/unicorn.png?raw=true)
