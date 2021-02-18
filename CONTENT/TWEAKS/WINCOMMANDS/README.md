@@ -2,7 +2,10 @@
 
 ### Boot Configuration Data and its commands explained.
 Boot Configuration Data (a.k.a bcdedit) is a command utility executable which allows you to edit boot parameters.
+
+<details><summary>Findings and Analysis</summary>
 In this section I will only explain the settings of `bcdedit /set` because they are the most important and can lead to a lower latency and higher performance, the values that I provide are the ones that you want to use if you are entirely focused on performances.
+
 You can also take a look at the [Microsoft's bcdedit page](https://docs.microsoft.com/en-us/windows-hardware/drivers/devtest/bcd-boot-options-reference).
 <hr>
 
@@ -45,3 +48,4 @@ You can also take a look at the [Microsoft's bcdedit page](https://docs.microsof
 **useplatformtick**: no ; this value can cause stutters if set to yes.
 
 **x2apicpolicy**: enable ; this is better than legacy apic and can lead to better performances.
+</details>
