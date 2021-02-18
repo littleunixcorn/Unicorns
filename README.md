@@ -10,3 +10,4 @@ If you want to talk with me or even join my *community*, you can go in [my disco
 
 ## Thanks to
 - `Keb#1850` and `CatGamerOP#7828` for their grammar skills.
+- `Flashy⚡#8001` for the benchmarks.
