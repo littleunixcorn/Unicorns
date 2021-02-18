@@ -6,3 +6,6 @@ This folder contains tweaks that I have made.
 
 [Windows Commands](WINCOMMANDS/README.md)
 - Boot Configuration Data and its commands explained.
+
+[Power plans](POWERPLANS/README.md)
+- The importance of a good power plan.
