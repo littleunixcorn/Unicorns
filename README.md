@@ -19,5 +19,14 @@ If you want to talk with me or even join my *community*, you can go in [my disco
     - **RAM**: `? - 16gb 2666Mhz`
     - **PSU**: `?`
   - Programs:
-    - **Latencymon**: `1 minute run`
-    
+    - **Latencymon**:
+      - **Duration**: `1 minute run`
+    - **Mouse tester**:
+      - **Mouse** : `Cooler Master mm711`
+    - **Speedtest**:
+      - **Internet access type**: `ADSL + Intel 1219-v`
+    - **Fortnite**:
+      - **Duration**: `1 minute run`
+      - **Resolution**: `1722*1080`
+      - **Graphics settings**: `Full low + Performance mode`
+      - **Benchmarked on an empty black island looking at the sky**
