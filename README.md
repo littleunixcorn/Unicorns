@@ -22,7 +22,7 @@ If you want to talk with me or even join my *community*, you can go in [my disco
     - **Latencymon**:
       - **Duration**: `1 minute run`
     - **Mouse tester**:
-      - **Mouse** : `Cooler Master mm711`
+      - **Mouse**: `Cooler Master mm711`
     - **Speedtest**:
       - **Internet access type**: `ADSL + Intel 1219-v`
     - **Fortnite**:
