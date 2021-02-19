@@ -46,6 +46,12 @@ This program was designed to prevent audio stutters, but it is commonly used by 
 - My power plan:
 ![](https://github.com/littleunixcorn/Unicorns/blob/main/assets/images/latencymon/unicorn.png?raw=true)
 
+**[CapFrameX](https://capframex.com)**
+
+A program created to benchmark games.
+- All power plans:
+![](https://github.com/littleunixcorn/Unicorns/blob/main/assets/images/capframex/capframex_all_powerplans.png?raw=true)
+
 <hr>
 
 As you can see, a power plan is not a thing to ignore. This can help your polling rate be more stable, reduce your latency and improve your fps (I will upload some benchmarks soon).
