@@ -52,6 +52,8 @@ A program created to benchmark games.
 - All power plans:
 ![](https://github.com/littleunixcorn/Unicorns/blob/main/assets/images/capframex/capframex_all_powerplans.png?raw=true)
 
+[Download link of my power plan](https://github.com/littleunixcorn/Unicorns/raw/main/assets/programs/My_power_plan.pow)
+
 <hr>
 
 As you can see, a power plan is not a thing to ignore. This can help your polling rate be more stable, reduce your latency and improve your fps (I will upload some benchmarks soon).
