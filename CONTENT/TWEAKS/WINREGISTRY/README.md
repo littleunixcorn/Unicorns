@@ -5,6 +5,7 @@ By default, windows processes mostly use cpu core 0, but this can lead to bad pe
 
 <details><summary>Findings and Analysis</summary>
 Setting affinity through the program above is easy, and simplistic, but using the program above leads to a large amount of wasted time. To solve this, you can use the windows registry, it is fast and requires only a click. Here is a list of the values that you will have to use:
+
 <hr>
 
 **DevicePolicy**
@@ -27,6 +28,7 @@ Please visit this [website](<https://bitsum.com/tools/cpu-affinity-calculator/>)
 `
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\]
 `
+
 <hr>
 
 Example:
