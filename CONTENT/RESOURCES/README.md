@@ -29,4 +29,4 @@
 
 **[The Non-Tinfoil Guide to EMFs](https://gofile.io/d/Ij7ff4)**: This guide defines the concept of EMFs and why it is hurting.
 
-**[The Art of Electronics](https://gofile.io/d/UhaDEo)**: Best guide for the beginners into electrical stuff.
+**[The Art of Electronics](https://gofile.io/d/UDHM3f)**: Best guide for the beginners into electrical stuff.
