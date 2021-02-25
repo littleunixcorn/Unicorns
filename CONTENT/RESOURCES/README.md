@@ -7,6 +7,8 @@
 
 **[Overclocking](https://discord.gg/XkSBA9mJxd)**: A discord handling the subject of overclock, good support if you want to overclock your components.
 
+**[BIOS Modding Community](https://discord.gg/CVW9fKY833)**: A discord based on the BIOS Modding subject.
+
 ## Guides
 **[BIOS Grub Guide](https://docs.google.com/document/d/12jbJZ20F63GpU05VYwjrfzdbNKsaxGp-5IDqgJYE1-I/)**: This guide is a good place if you want to change hidden settings of your BIOS.
 
