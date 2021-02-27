@@ -7,7 +7,7 @@ The power plans are a feature provided by Microsoft to set specific settings for
 The power plans can be used to conserve power for laptops, but this is not why I made this topic. A good power plan can improve your performances in games or even in common tasks.
 A lot of people in the tweaking community provide power plans, but which one is the best? Can we see any difference between them?
 
-In this section I will provide some tests to see which power plan is the best from those that were tested, but you can do your own power plan with [PowerSettingsExplorer](https://forums.guru3d.com/threads/windows-power-plan-settings-explorer-utility.416058/).
+In this section I will provide some tests to see which power plan is the best from those that were tested, but you can do your own power plan with [PowerSettingsExplorer](https://forums.guru3d.com/threads/windows-power-plan-settings-explorer-utility.416058/), you can find more informations about the benchmarks at the home of the github.
 <hr>
 
 **[Mouse tester](https://www.overclock.net/threads/mousetester-software.1535687/)**
