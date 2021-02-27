@@ -50,3 +50,36 @@ You can also take a look at the [Microsoft's bcdedit page](https://docs.microsof
 
 **x2apicpolicy**: `enable` ; this is better than legacy apic and can lead to better performances.
 </details>
+
+### Improving network speed with Network Shell.
+Network Shell (a.k.a netsh) is a command utility executable which allows you to edit and view network configurations.
+
+<details><summary>Findings and Analysis</summary>
+In this section I will show you basics netsh configurations which can potentially improves your network speed.
+
+If you want to learn more you can visit the [official page by Microsoft](https://docs.microsoft.com/en-us/windows-server/networking/technologies/netsh/netsh).
+<hr>
+
+#### My configuration for Windows 7 (benchmarked).
+**netsh int tcp set global autotuninglevel=disabled**: a feature that can improves your network speed, for me it does not.
+
+**netsh int tcp set global chimney=disabled**: used to offload processing of the entire TCP/IP.
+
+**netsh int tcp set global netdma=disabled**: used to reduce processor usage.
+
+**netsh int tcp set global congestionprovider=ctcp**: a TCP alternative which is more aggresive.
+
+**[Speed test](https://www.speedtest.net)**
+
+A website measuring your network speed.
+
+- Before applying my settings:
+![](https://github.com/littleunixcorn/Unicorns/blob/main/assets/images/speedtest/before.png?raw=true)
+- After applying my settings:
+![](https://github.com/littleunixcorn/Unicorns/blob/main/assets/images/speedtest/after.png?raw=true)
+
+#### My configuration for Windows 10 (not benchmarked).
+**netsh int tcp set global autotuninglevel=disabled**: a feature that can improves your network speed, for me it does not.
+
+**netsh int tcp set supplemental Internet congestionprovider=ctcp**: a TCP alternative which is more aggresive.
+</details>
