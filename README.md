@@ -6,7 +6,7 @@ The tree view of the repository is inspired on [GamingPCSetup](https://github.co
 This repository is open to everyone in quest of knowledge.
 
 ## Contact
-If you want to talk with me or even join my *community*, you can go in [my discord](https://discord.io/unixcorns).
+If you want to talk with me or even join my *community*, you can go in [my discord](https://discord.io/unicorns).
 
 ## Thanks to
 - `Keb#1850` and `CatGamerOP#7828` for their grammar skills.
