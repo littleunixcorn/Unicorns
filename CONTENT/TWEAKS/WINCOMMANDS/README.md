@@ -55,7 +55,7 @@ You can also take a look at the [Microsoft's bcdedit page](https://docs.microsof
 Network Shell (a.k.a netsh) is a command utility executable which allows you to edit and view network configurations.
 
 <details><summary>Findings and Analysis</summary>
-In this section I will show you basics netsh configurations which can potentially improves your network speed.
+In this section I will show you basics netsh configurations which can potentially improves your network speed, to use the commands you have to open a command prompt and paste them one by one.
 
 If you want to learn more you can visit the [official page by Microsoft](https://docs.microsoft.com/en-us/windows-server/networking/technologies/netsh/netsh).
 <hr>
