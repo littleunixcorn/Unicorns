@@ -61,13 +61,13 @@ If you want to learn more you can visit the [official page by Microsoft](https:/
 <hr>
 
 #### My configuration for Windows 7 (benchmarked).
-**netsh int tcp set global autotuninglevel=disabled**: a feature that can improves your network speed, for me it does not, disabling it may reduce your network speed.
+**autotuninglevel**: `disabled` ; a feature that can improves your network speed, for me it does not, disabling it may reduce your network speed.
 
-**netsh int tcp set global chimney=disabled**: used to offload processing of the entire TCP/IP.
+**chimney**: `disabled` ; used to offload processing of the entire TCP/IP.
 
-**netsh int tcp set global netdma=disabled**: used to reduce processor usage.
+**netdma**: `disabled` ; used to reduce processor usage.
 
-**netsh int tcp set global congestionprovider=ctcp**: a TCP alternative which is more aggresive.
+**congestionprovider**: `ctcp` ; a TCP alternative which is more aggresive.
 
 **[Speed test](https://www.speedtest.net)**
 
@@ -79,7 +79,7 @@ A website measuring your network speed.
 ![](https://github.com/littleunixcorn/Unicorns/blob/main/assets/images/speedtest/after.png?raw=true)
 
 #### My configuration for Windows 10 (not benchmarked).
-**netsh int tcp set global autotuninglevel=disabled**: a feature that can improves your network speed, for me it does not, disabling it may reduce your network speed.
+**autotuninglevel**: `disabled` ; a feature that can improves your network speed, for me it does not, disabling it may reduce your network speed.
 
-**netsh int tcp set supplemental Internet congestionprovider=ctcp**: a TCP alternative which is more aggresive.
+**congestionprovider**: `ctcp` ; a TCP alternative which is more aggresive.
 </details>
