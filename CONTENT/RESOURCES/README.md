@@ -1,6 +1,8 @@
 ## Discords
 **[ReviOS](https://discord.gg/962y4pU)**: A discord based on the creation of Windows 10 ISOs but also very helpful by its huge amounts of stuff touching the subject of computers optimization.
 
+**[UnicornsOS](https://discord.io/UnicornsOS)**: My personal OS based on the 1607 version of Windows 10.
+
 **[ggOS](https://discord.io/ggos)**:  A discord based on the creation of a 20h2 Windows ISO.
 
 **[FoxOS](https://discord.io/FoxOS)**: A discord based on the creation of a Windows 7 SP1 ISO.
